@@ -1,6 +1,7 @@
 # ArtARound - Discover Street Art with AI and Solana
 
-![ArtARound Logo](artaround_logo.png)
+![ArtARound Logo](https://github.com/Art-Around/art-around-AI-AR/assets/122214438/c393edb2-b6a3-471d-bf31-0529308de6c3)
+
 
 Welcome to ArtARound, an innovative application that brings the world of street art and augmented reality (AR) together on the Solana blockchain. With the power of **AI** and Solana's fast and efficient transactions, ArtARound is set to revolutionize the way people discover, explore, and support street art.
 
