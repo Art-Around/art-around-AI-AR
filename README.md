@@ -47,6 +47,7 @@ ArtARound is committed to bringing more people into the exciting world of web3 a
 ## How It Works
 
 ArtARound employs advanced AI algorithms to curate art walks and city tours, ensuring a delightful and diverse street art discovery experience for users. The application's integration with Solana allows for instant and cost-effective NFT minting as users collect stamps to support artists.
+Video demonstration: https://vimeo.com/849749132?share=copy
 
 ## Get Started
 
