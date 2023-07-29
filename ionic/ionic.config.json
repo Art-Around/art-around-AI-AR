@@ -1,0 +1,7 @@
+{
+  "name": "ArtAround-app",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
